@@ -1,0 +1,12 @@
+Fiber pipeline out:
+Operator (employee) error:
+A/C:
+Power/generator reduction:
+Air Con.:
+Fiber pipeline in:
+HVAC:
+Misc. elec.:
+Physical intrusion (water):
+Physical intrusion (person):
+Operator (non-employee) error:
+Power/generator loss:
