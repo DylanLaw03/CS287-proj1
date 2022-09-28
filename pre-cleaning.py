@@ -3,7 +3,7 @@ Early data cleaning for CS287 proj 1. Goal here is to get a general look at what
 """
 NUM_FILES = 1431
 found_strings = set()
-nums = set(["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"])
+
 
 #removes number from end of string, also strip whitespace
 def stripNum(line: str) -> str:
